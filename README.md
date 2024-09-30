@@ -1,3 +1,5 @@
+> ‼️ **The WAX project has been sunsetted by PSE and further developments have been paused as of September 2024. See the following announcment in the [org README](https://github.com/getwax)** ‼️
+
 # Wallet Account eXperiments (WAX)
 
 ![WAX Logo](./waxGreenLogo.png)
